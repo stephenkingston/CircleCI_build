@@ -1,4 +1,6 @@
 # Sample project for continous integration with Travis-CI
 
+Testing the Travis-CT build system
+
 ## Status
-[![Build Status](https://travis-ci.org/stephenkingston/build_system.png?branch=master)](https://travis-ci.org/stephenkingston/build_system)
+[![Build Status](https://travis-ci.com/stephenkingston/build_system.svg?branch=master)](https://travis-ci.com/stephenkingston/build_system)
